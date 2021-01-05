@@ -30,7 +30,7 @@ node index.js
 
 Once invoked, the user will be prompted with a series of questions. Input is required for all questions and may be submitted by pressing enter. The user's input will then be used to generate an HTML webpage that displays all team members, built using the input provided.
 
-![employee-summary](assets/employee-summary.PNG)
+![employee-summary](assets/employee-summary.png)
 
 [Watch a video walkthrough of the application.](https://drive.google.com/file/d/1BXsH09yvkxwJH13UqWF_2jkCOLhUm6vi/view)
 
