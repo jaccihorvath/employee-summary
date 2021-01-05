@@ -1,0 +1,39 @@
+body {
+    background-color: #264C61;
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    font-size: 48px;
+    color: white;
+}
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 28px;
+    color: #264C61;
+}
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 18px;
+    font-style: italic;
+    color: #264C61;
+}
+li {
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    color: #264C61;
+}
+a {
+    color: #759AAB;
+}
+.jumbo {
+    background-color: #759AAB;
+}
+.title {
+    background-color: white;
+}
+.info {
+    background-color: #759AAB;
+}
